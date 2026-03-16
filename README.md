@@ -10,6 +10,15 @@ A Manifest V3 browser-side logging and interaction automation library for Snov.i
 > [!NOTE]
 > This project is implemented as a Chrome Extension content-script package, but its core runtime behavior functions like a focused DOM interaction/logging library embedded into `https://app.snov.io/*`.
 
+## Related Projects
+
+This tool is part of the **AdTech Automation Suite**. Check out the companion extension:
+
+| Project | Type | Description |
+| :--- | :--- | :--- |
+| **[Snov.io Addon: Blocklist Highlighter](https://github.com/OstinUA/Snov.io-addon_1)** | Chrome Extension | Real-time visual flagging of blacklisted or bounced emails |
+| **[Snov.io Addon: Click-to-Compose](https://github.com/OstinUA/Snov.io-addon_2)** | Chrome Extension | Instantly converts static email text into clickable `mailto:` links |
+
 ## Table of Contents
 
 - [Features](#features)
